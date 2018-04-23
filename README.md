@@ -1,6 +1,8 @@
 # daily
 
-> A Vue.js project
+知乎日报小程序
+
+测试开发
 
 ## Build Setup
 
